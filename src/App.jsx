@@ -1,11 +1,6 @@
-// import { useState } from 'react';
-// import reactLogo from './assets/react.svg';
-// import viteLogo from '/vite.svg';
-// import './App.css';
-
 import image from './assets/images/image-qr-code.png';
 
-function App() {
+function Card() {
 	return (
 		<div className="card">
 			<div className="img">
@@ -22,4 +17,4 @@ function App() {
 	);
 }
 
-export default App;
+export default Card;
